@@ -12,6 +12,8 @@ Controls for the game are typical WAD for up, left and right. You can dash using
 
 The character pixel art is all custom, tiles such as dirt, clouds in the background, stone and other environmental tiles such as trees and flowers are from DaFluffyPotato. Pixel art of the Castle, its various furniture pieces and flags are all custom. I hope you enjoy this neat take at customizing this tutorial!
 
+An Editor is also available to create your own levels which is editor.py. Using left and right click you can place tiles and delete them respectively. Scrolling with the mouse wheel will enable you to rotate through different tile categories for placement, while holding shift while you scroll through the tiles in that category. Pressing the O key will output your map as a json file which can be loaded by game.py. These are all features straight from DaFluffyPotato's tutorial.
+
 Author:
 
 - Michael Levins
